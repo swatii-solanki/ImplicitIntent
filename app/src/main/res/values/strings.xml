@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="edittext_uri">https://engineerbabu.com/</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">EngineerBabu, Plot no 156, Scheme no 78 - Part 2, Behind Vrindawan Restaurant, Infront of Prestige College, Vijay Nagar, Indore, Madhya Pradesh 452010</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">\'Twas brillig and the slithy toves</string>
+    <string name="button_share">Share This Text</string>
+</resources>
